@@ -1,2 +1,2 @@
 # jii_encryption_algorithm_Linux
-jii shifrlash dasturi
+jii shifrlash dasturi Linux OS uchun
