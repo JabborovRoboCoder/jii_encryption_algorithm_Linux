@@ -1,4 +1,5 @@
 import math
+import os
 # from termcolor import colored
 try:
     from termcolor import colored
@@ -123,6 +124,21 @@ def de_shifrlash(shifr):
 
 # Asosiy kod
 while True :
+    os.system('clear')
+    
+    print("""
+          
+
+                                          ▀  ▀   ▀  　 █▀▀ █  █  ▀  █▀▀ █▀▀█ █   █▀▀█ █▀▀ █  █ 
+                                          █ ▀█▀ ▀█▀ 　 ▀▀█ █▀▀█ ▀█▀ █▀▀ █▄▄▀ █   █▄▄█ ▀▀█ █▀▀█ 
+                                        █▄█ ▀▀▀ ▀▀▀ 　 ▀▀▀ ▀  ▀ ▀▀▀ ▀   ▀ ▀▀ ▀▀▀ ▀  ▀ ▀▀▀ ▀  ▀
+                                        
+                                                Muallif : Ilhom Jabborov
+                                                GitHub : https://github.com/JabborovRoboCoder
+                    
+          """)
+    
+    
     kalit = str(input(colored("Kalit so'zni kiriting :-->  ","green")))
     if kalit.lower() == "chiqish":
         break
