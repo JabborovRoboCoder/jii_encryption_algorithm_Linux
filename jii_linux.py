@@ -1,6 +1,6 @@
 import math
 import os
-# from termcolor import colored
+
 try:
     from termcolor import colored
 except ImportError:
@@ -124,7 +124,6 @@ def de_shifrlash(shifr):
 
 # Asosiy kod
 while True :
-    os.system('clear')
     
     print("""
           
@@ -141,6 +140,7 @@ while True :
     
     kalit = str(input(colored("Kalit so'zni kiriting :-->  ","green")))
     if kalit.lower() == "chiqish":
+        os.system('clear')
         break
 
     tanlash = str(input(colored("Raqamni kiriting (1 oddiy so'z, 2 shifrlangan so'z):-->  ","blue")))
