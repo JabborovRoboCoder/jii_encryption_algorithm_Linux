@@ -1,8 +1,8 @@
 # jii_encryption_algorithm_Linux
 jii shifrlash dasturi Linux OS uchun
 
-Matnni shifrlab va de-Shifrlab beruvchi dastur. Dastur qanday ishlashi haqidagi to'liq malumotni <b>"document"</b> faylini ichidagi <b>.ppt va .docx</b> formatdagi fayllar orqali bilib olishingiz mumkin.<br>br<>
-<img src="Screenshot 2024-01-10 011812.png" alt="dastur rasmi"><br>
+Matnni shifrlab va de-Shifrlab beruvchi dastur. Dastur qanday ishlashi haqidagi to'liq malumotni <b>"document"</b> faylini ichidagi <b>.ppt va .docx</b> formatdagi fayllar orqali bilib olishingiz mumkin.<br><br>
+<img src="Screenshot 2024-01-10 011812.png" alt="dastur rasmi"><br><br>
 <b>Ishlatish :</b> <br>
 Dasturni yuklab oling.Dastur [.zip] formatda yuklanadi.Dasturni zipdan chiqaring.<br>
 Quydagi buyruqlar ketma-ketligini kiriting :<br>
